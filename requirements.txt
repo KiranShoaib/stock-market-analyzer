@@ -1,1 +1,6 @@
+streamlit
+pandas
 yfinance
+matplotlib
+seaborn
+plotly
